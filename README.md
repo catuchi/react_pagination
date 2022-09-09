@@ -6,5 +6,9 @@
 
 In the project directory, run:
 
+```bash
+# Install dependencies
 npm install
+
 npm start
+```
